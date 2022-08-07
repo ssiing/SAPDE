@@ -1,0 +1,24 @@
+   2022-5-16-20:55:53:bottle:Sample Auroc: 0.972###Sample Ap: 0.991Pixel Auroc: 0.970###Pixel ap: 0.727Pixel Aupro: 0.573
+   2022-5-16-20:57:40:cable:Sample Auroc: 0.848###Sample Ap: 0.901Pixel Auroc: 0.923###Pixel ap: 0.324Pixel Aupro: 0.467
+   2022-5-16-20:59:21:capsule:Sample Auroc: 0.897###Sample Ap: 0.977Pixel Auroc: 0.984###Pixel ap: 0.458Pixel Aupro: 0.382
+   2022-5-16-21:1:1:carpet:Sample Auroc: 0.928###Sample Ap: 0.977Pixel Auroc: 0.989###Pixel ap: 0.660Pixel Aupro: 0.000
+   2022-5-16-21:2:7:grid:Sample Auroc: 0.473###Sample Ap: 0.748Pixel Auroc: 0.983###Pixel ap: 0.412Pixel Aupro: 0.000
+   2022-5-16-21:3:12:blue:Sample Auroc: 1.000###Sample Ap: 1.000Pixel Auroc: 0.989###Pixel ap: 0.559Pixel Aupro: 0.000
+   2022-5-16-21:5:43:red:Sample Auroc: 0.998###Sample Ap: 0.996Pixel Auroc: 0.974###Pixel ap: 0.661Pixel Aupro: 0.006
+   2022-5-16-21:7:32:hazelnut:Sample Auroc: 0.881###Sample Ap: 0.932Pixel Auroc: 0.985###Pixel ap: 0.636Pixel Aupro: 0.756
+   2022-5-16-21:9:9:leather:Sample Auroc: 0.954###Sample Ap: 0.985Pixel Auroc: 0.993###Pixel ap: 0.538Pixel Aupro: 0.243
+   2022-5-16-21:10:31:metal_nut:Sample Auroc: 0.710###Sample Ap: 0.922Pixel Auroc: 0.971###Pixel ap: 0.842Pixel Aupro: 0.244
+   2022-5-16-21:12:28:pill:Sample Auroc: 0.803###Sample Ap: 0.950Pixel Auroc: 0.950###Pixel ap: 0.572Pixel Aupro: 0.778
+   2022-5-16-21:27:19:tile:Sample Auroc: 0.965###Sample Ap: 0.989Pixel Auroc: 0.928###Pixel ap: 0.484Pixel Aupro: 0.171
+   2022-5-16-21:27:51:toothbrush:Sample Auroc: 0.889###Sample Ap: 0.959Pixel Auroc: 0.988###Pixel ap: 0.566Pixel Aupro: 0.525
+   2022-5-16-21:29:12:transistor:Sample Auroc: 0.903###Sample Ap: 0.884Pixel Auroc: 0.866###Pixel ap: 0.394Pixel Aupro: 0.004
+   2022-5-16-21:30:27:wood:Sample Auroc: 0.959###Sample Ap: 0.988Pixel Auroc: 0.953###Pixel ap: 0.491Pixel Aupro: 0.227
+   2022-5-16-21:32:9:zipper:Sample Auroc: 0.966###Sample Ap: 0.991Pixel Auroc: 0.986###Pixel ap: 0.636Pixel Aupro: 0.531
+   2022-5-16-21:35:9:screw:Sample Auroc: 0.667###Sample Ap: 0.843Pixel Auroc: 0.991###Pixel ap: 0.327
+   2022-5-16-22:3:53:bottle:Sample Auroc: 0.972###Sample Ap: 0.991Pixel Auroc: 0.970###Pixel ap: 0.727Pixel Aupro: 0.573
+   2022-5-16-22:5:33:cable:Sample Auroc: 0.848###Sample Ap: 0.901Pixel Auroc: 0.923###Pixel ap: 0.324Pixel Aupro: 0.467
+   2022-5-17-8:58:53:bottle:Sample Auroc: 0.972###Sample Ap: 0.991Pixel Auroc: 0.970###Pixel ap: 0.727Pixel Aupro: 0.573
+   2022-6-12-16:18:13:bottle:Sample Auroc: 0.972###Sample Ap: 0.991Pixel Auroc: 0.970###Pixel ap: 0.727Pixel Aupro: 0.417
+   2022-6-12-16:20:43:cable:Sample Auroc: 0.848###Sample Ap: 0.901Pixel Auroc: 0.923###Pixel ap: 0.324Pixel Aupro: 0.500
+   2022-6-12-16:23:14:capsule:Sample Auroc: 0.897###Sample Ap: 0.977Pixel Auroc: 0.984###Pixel ap: 0.458Pixel Aupro: 0.198
+   2022-6-12-16:25:43:carpet:Sample Auroc: 0.928###Sample Ap: 0.977Pixel Auroc: 0.989###Pixel ap: 0.660Pixel Aupro: 0.153
